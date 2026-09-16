@@ -1,0 +1,101 @@
+customer_id,customer_name,city,state,signup_date
+1001,Aarav Sharma,Delhi,Delhi,19-12-2025
+1002,Priya Gupta,Kolkata,West Bengal,21-04-2025
+1003,Rahul Chavan,Bengaluru,Karnataka,12-07-2025
+1004,Sneha Patil,Delhi,Delhi,06-05-2025
+1005,Rohan Singh,Surat,Gujarat,02-04-2025
+1006,Ananya Bhosale,Nashik,Maharashtra,05-06-2025
+1007,Vikram Verma,Nagpur,Maharashtra,03-06-2025
+1008,Neha Pawar,Mumbai,Maharashtra,14-12-2025
+1009,Aditya Mishra,Jaipur,Rajasthan,25-10-2025
+1010,Kavya Kulkarni,Mumbai,Maharashtra,15-07-2025
+1011,Arjun More,Pune,Maharashtra,14-11-2025
+1012,Isha Nair,,Rajasthan,15-12-2025
+1013,Karan Mehta,Noida,Uttar Pradesh,04-03-2025
+1014,Pooja Jadhav,Ahmedabad,Gujarat,11-07-2025
+1015,Nikhil Reddy,Chennai,Tamil Nadu,02-10-2025
+1016,Meera Joshi,Kolkata,West Bengal,24-02-2025
+1017,Sahil Shah,Jaipur,Rajasthan,28-02-2025
+1018,Riya Malhotra,Nagpur,Maharashtra,07-11-2025
+1019,Aman Deshmukh,Delhi,Delhi,25-01-2025
+1020,Simran Kadam,Hyderabad,Telangana,20-06-2025
+1021,Yash Sharma,Lucknow,Uttar Pradesh,03-04-2025
+1022,Aditi Gupta,Bhopal,Madhya Pradesh,03-09-2025
+1023,Varun Chavan,Hyderabad,Telangana,16-12-2025
+1024,Tanvi Patil,Mumbai,Maharashtra,10-12-2025
+1025,Harsh Singh,Kolkata,West Bengal,25-09-2025
+1026,Mansi Bhosale,Kolkata,West Bengal,08-02-2025
+1027,Akash Verma,Bhopal,Madhya Pradesh,26-03-2025
+1028,Shreya Pawar,Nashik,Maharashtra,23-02-2025
+1029,Manish Mishra,Bengaluru,,06-01-2025
+1030,Diya Kulkarni,Thane,Maharashtra,27-02-2025
+1031,Aarav More,Ahmedabad,Gujarat,21-09-2025
+1032,Priya Nair,Lucknow,Uttar Pradesh,10-08-2025
+1033,Rahul Mehta,Jaipur,Rajasthan,15-06-2025
+1034,Sneha Jadhav,Ahmedabad,Gujarat,01-10-2025
+1035,Rohan Reddy,Chennai,Tamil Nadu,02-10-2025
+1036,Ananya Joshi,Bengaluru,Karnataka,07-08-2025
+1037,Vikram Shah,Bengaluru,Karnataka,05-08-2025
+1038,Neha Malhotra,Chennai,Tamil Nadu,29-08-2025
+1039,Aditya Deshmukh,Lucknow,Uttar Pradesh,26-02-2025
+1040,Kavya Kadam,Indore,Madhya Pradesh,14-02-2025
+1041,Arjun Sharma,Kolkata,West Bengal,01-11-2025
+1042,Isha Gupta,Pune,Maharashtra,15-12-2025
+1043,Neha Pawar,Delhi,Delhi,13-01-2025
+1044,Pooja Patil,Pune,Maharashtra,20-05-2025
+1045,Nikhil Singh,Surat,Gujarat,26-03-2025
+1046,Meera Bhosale,Bengaluru,Karnataka,16-06-2025
+1047,Sahil Verma,Nagpur,Maharashtra,20-10-2025
+1048,Riya Pawar,Aurangabad,Maharashtra,23-08-2025
+1049,Aman Mishra,Hyderabad,Telangana,01-02-2025
+1050,Simran Kulkarni,Delhi,Delhi,24-07-2025
+1051,Yash More,Bengaluru,Karnataka,29-09-2025
+1052,Aditi Nair,Mumbai,Maharashtra,06-02-2025
+1053,Varun Mehta,Chennai,Tamil Nadu,07-03-2025
+1054,Tanvi Jadhav,Aurangabad,Maharashtra,13-04-2025
+1055,Harsh Reddy,Jaipur,Rajasthan,06-08-2025
+1056,Mansi Joshi,Nagpur,Maharashtra,19-08-2025
+1057,Akash Shah,Aurangabad,Maharashtra,15-05-2025
+1058,Shreya Malhotra,,Maharashtra,09-01-2025
+1059,Manish Deshmukh,Bhopal,Madhya Pradesh,14-10-2025
+1060,Diya Kadam,Hyderabad,Telangana,30-07-2025
+1061,Aarav Sharma,Kolkata,West Bengal,16-12-2025
+1062,Priya Gupta,Ahmedabad,Gujarat,02-07-2025
+1063,Rahul Chavan,Delhi,Delhi,02-09-2025
+1064,Sneha Patil,Nashik,Maharashtra,14-08-2025
+1065,Rohan Singh,Aurangabad,Maharashtra,23-08-2025
+1066,Ananya Bhosale,Indore,Madhya Pradesh,27-05-2025
+1067,Vikram Verma,Surat,Gujarat,02-02-2025
+1068,Neha Pawar,Nashik,Maharashtra,17-01-2025
+1069,Aditya Mishra,Delhi,Delhi,10-07-2025
+1070,Kavya Kulkarni,Mumbai,Maharashtra,23-06-2025
+1071,Arjun More,Indore,Madhya Pradesh,07-03-2025
+1072,Isha Nair,Thane,Maharashtra,15-10-2025
+1073,Karan Mehta,Jaipur,Rajasthan,17-02-2025
+1074,Aman Deshmukh,Surat,Gujarat,12-05-2025
+1075,Nikhil Reddy,Delhi,Delhi,13-07-2025
+1076,Meera Joshi,Pune,Maharashtra,14-10-2025
+1077,Sahil Shah,Indore,Madhya Pradesh,25-08-2025
+1078,Riya Malhotra,Nagpur,Maharashtra,21-07-2025
+1079,Aman Deshmukh,Bengaluru,Karnataka,21-05-2025
+1080,Simran Kadam,Aurangabad,Maharashtra,17-08-2025
+1081,Yash Sharma,Ahmedabad,Gujarat,25-06-2025
+1082,Aditi Gupta,Kolkata,West Bengal,15-11-2025
+1083,Varun Chavan,Hyderabad,Telangana,03-07-2025
+1084,Tanvi Patil,Noida,Uttar Pradesh,18-11-2025
+1085,Harsh Singh,Noida,Uttar Pradesh,25-02-2025
+1086,Mansi Bhosale,Jaipur,Rajasthan,26-10-2025
+1087,Akash Verma,Mumbai,Maharashtra,27-04-2025
+1088,Shreya Pawar,Aurangabad,Maharashtra,27-04-2025
+1089,Manish Mishra,Noida,Uttar Pradesh,10-07-2025
+1090,Diya Kulkarni,Noida,Uttar Pradesh,06-01-2025
+1091,Aarav More,Mumbai,Maharashtra,12-08-2025
+1092,Priya Nair,Aurangabad,Maharashtra,16-08-2025
+1093,Rahul Mehta,Pune,Maharashtra,10-05-2025
+1094,Sneha Jadhav,Mumbai,Maharashtra,26-02-2025
+1095,Rohan Reddy,Jaipur,Rajasthan,10-08-2025
+1096,Ananya Joshi,Thane,Maharashtra,08-09-2025
+1097,Vikram Shah,Nashik,Maharashtra,26-07-2025
+1098,Neha Malhotra,Noida,Uttar Pradesh,16-09-2025
+1099,Aditya Deshmukh,Thane,Maharashtra,11-10-2025
+1100,Kavya Kadam,Aurangabad,Maharashtra,12-04-2025
